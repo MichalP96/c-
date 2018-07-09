@@ -1,0 +1,6 @@
+C:\c#\HelloWorldCons\bin\Debug\HelloWorldCons.exe.config
+C:\c#\HelloWorldCons\bin\Debug\HelloWorldCons.exe
+C:\c#\HelloWorldCons\bin\Debug\HelloWorldCons.pdb
+C:\c#\HelloWorldCons\obj\Debug\HelloWorldCons.csprojResolveAssemblyReference.cache
+C:\c#\HelloWorldCons\obj\Debug\HelloWorldCons.exe
+C:\c#\HelloWorldCons\obj\Debug\HelloWorldCons.pdb
