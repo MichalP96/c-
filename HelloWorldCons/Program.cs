@@ -11,6 +11,7 @@ namespace HelloWorldCons
 
         static void Main(string[] args)
         {
+            string songLyrics = "You say goodbye, and I say hello";
             string sayHello = "Hello World!";
             string greeting = "        Hello World!          ";
             Console.WriteLine($"[{greeting}]");
@@ -27,6 +28,15 @@ namespace HelloWorldCons
 
             Console.WriteLine(sayHello.ToUpper());
             Console.WriteLine(sayHello.ToLower());
+
+            Console.WriteLine(songLyrics.Contains("goodbye"));
+
+            if (songLyrics.Contains("goodbye") == true)
+                Console.WriteLine("I got it !");
+            
+
+
+
 
 
             Console.ReadLine();
